@@ -1,5 +1,3 @@
-# Exodium
-
 # 👋 
 
 🚀 Software Engineer
